@@ -1,0 +1,21 @@
+- [x] 00:00:00 Introduction
+- [x] 00:02:38 Installation
+- [x] 00:04:27 Installation du simulateur Android
+- [x] 00:07:20 Découverte de la structure
+- [x] 00:08:50 Eléments de bases (View et Text)
+- [ ] 00:11:00 Navigation
+- [ ] 00:17:00 Traduction du design system
+- [ ] 00:30:52 Ecran de listing
+- [ ] 00:39:22 Le composant PokemonCard
+- [ ] 00:47:01 Utilisation de l'API
+- [ ] 00:55:00 Liste
+- [ ] 01:04:00 Formulaire de recherche
+- [ ] 01:16:29 Gestion de l'ordre
+- [ ] 01:39:29 Ecran détail du pokemon
+- [ ] 02:13:00 Stats du pokemon
+- [ ] 02:25:23 Animer avec React Native Reanimated
+- [ ] 02:40:45 Lecture de sons
+- [ ] 03:09:32 Navigation
+- [ ] 02:51:57 Navigation au swipe
+- [ ] 03:06:00 Build
+- [ ] 03:08:34 Conclusion
